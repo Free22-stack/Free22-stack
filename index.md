@@ -18,5 +18,5 @@ I focus on clarity, accuracy, and usability—especially in environments where p
 - AI Workflows: Prompt design, output evaluation, content QA
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: your@email.com
+- LinkedIn: https://www.linkedin.com/in/rsegovia609/
+- Email: rsegovia609@gmail.com
