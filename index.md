@@ -13,7 +13,7 @@ I focus on clarity, accuracy, and usability—especially in environments where p
 
 ## Tools & Skills
 - Documentation: Markdown, Microsoft Word, Google Docs
-- Platforms: GitHub, SharePoint, Confluence (basic)
+- Platforms: GitHub, Adobe
 - Editing: Style guides, proofreading, revision tracking
 - AI Workflows: Prompt design, output evaluation, content QA
 
